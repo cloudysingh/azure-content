@@ -172,7 +172,7 @@ It returns something like this:
         ---------  -------------------  ----------  ------------
                                   True          OK  OK
 
-## Update a virtual machine
+## Update the virtual machine size
 
 This example shows how to update the size of the virtual machine.
         
